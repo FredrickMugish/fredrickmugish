@@ -1,4 +1,4 @@
- Hi there 👋
+   Hi there 👋
 I'm fredrick mugisha
 - 🔭 I’m currently working on ...inteldss project
 - 🌱 I’m currently learning ...reactjs
